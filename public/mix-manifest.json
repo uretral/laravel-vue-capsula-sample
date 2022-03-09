@@ -1,0 +1,10 @@
+{
+    "/assets-vuex/ts/anketaBuilder.js": "/assets-vuex/ts/anketaBuilder.js",
+    "/assets-vuex/ts/anketaFrontend.js": "/assets-vuex/ts/anketaFrontend.js",
+    "/assets-vuex/ts/index.js": "/assets-vuex/ts/index.js",
+    "/assets-vuex/css/index.css": "/assets-vuex/css/index.css",
+    "/assets-vuex/css/backend-styles.css": "/assets-vuex/css/backend-styles.css",
+    "/assets-vuex/ts/lead.js": "/assets-vuex/ts/lead.js",
+    "/assets-vuex/ts/payment.js": "/assets-vuex/ts/payment.js",
+    "/assets-vuex/ts/stock.js": "/assets-vuex/ts/stock.js"
+}
